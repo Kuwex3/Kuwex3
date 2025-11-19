@@ -4,7 +4,6 @@
 
 <div align="center">
 
-# **Kuwex**
 **Python Backend Engineer**
 
 `Python` `FastAPI` `Aiogram` `MySql/Postgresql` `Async` `Docker` `Linux`
