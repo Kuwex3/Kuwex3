@@ -8,7 +8,7 @@
 
 `Python` `FastAPI` `Aiogram` `MySql/Postgresql` `Async` `Docker` `Linux`
 
-![stats](https://github-readme-stats.vercel.app/api?username=Kuwex3&theme=react&hide_border=true&bg_color=0d1117)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuwex3&layout=donut&theme=react&hide_border=true&bg_color=0d1117)
+![stats](https://github-readme-stats.vercel.app/api?username=Kuwex3&theme=react&hide_border=true&bg_color=0d1117&v=1)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuwex3&layout=donut&theme=react&hide_border=true&bg_color=0d1117&v=1)
 
 </div>
